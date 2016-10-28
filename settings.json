@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "http.proxyStrictSSL": false,
+    "typescript.check.tscVersion": false,
+    "files.exclude": {
+        "**/.git": true,         // this is a default value
+        "**/.DS_Store": true,    // this is a default value
+        "build": true
+    },
+
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "boundary",
+    "window.restoreFullscreen": true
+}
